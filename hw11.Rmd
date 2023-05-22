@@ -42,7 +42,7 @@ source("ggprob.R")
 - Some problems use the official Madison weather data, `madison-weather-official-1869-2022.csv`.
 - Additional problems use the Boston Marathon data in the file `boston-marathon-data.csv`. This file is a transformed version of the raw data we used in class and has data for all runners who completed the race in 2010 and 2011. The variable `Time` is the sum of the times from the different portions of the race, each of which begins with "K".
 
-### Aims
+### Aims HAHAHAHAHA
 
 - Practice regression
 
